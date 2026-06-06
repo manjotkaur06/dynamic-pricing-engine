@@ -2,7 +2,7 @@
 
 An end-to-end Full-Stack Machine Learning solution that models and predicts ride-hailing/taxi surge prices based on supply-demand fluctuations, traffic bottlenecks, and weather anomalies. Powered by a production-grade **XGBoost Regressor** pipeline.
 
-🌐 **Live Interactive Dashboard:** [👉 Click Here to Test the Live App](https://manjotkaur06-dynamic-pricing-engine-srcdashboard-p2v6u1.streamlit.app/) *(Note: Replace this placeholder link with your actual Streamlit deployment URL once it builds)*
+🌐 **Live Interactive Dashboard:** [👉 Click Here to Test the Live App](http://localhost:8501/)
 
 ---
 
